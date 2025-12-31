@@ -5,16 +5,15 @@ This project analyzes Netflix content trends using Power BI.
 
 ## Tools Used
 - Power BI
-- Excel
 
 ## Key Insights
-- Movies are more than TV shows
-- United States produces the most content
-- Content growth increased after 2015
+- Movies make up nearly 70% of the content
+- TV-MA is the most common rating
+- Dramas and Documentaries are the most popular genres
+- The U.S. and India produce the most content
+- Netflix’s content growth increased rapidly after 2015
 
 ## Dashboard Preview
 ![Dashboard](Netflix_Analysis.PNG)
 
-## Author
-Shahal P  
-BCA Graduate | Learning Data Science
+
